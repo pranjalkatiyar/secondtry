@@ -1,0 +1,104 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.first
+{
+    background-color: #EAF6F6;
+    font-family: 'Freckle Face', cursive;
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+
+}
+
+h1{
+    font-size: 5.65em;
+    color:#66BFBF
+}
+h2{
+    
+    color:#66BFBF
+    font-weight:normal; 
+    padding: 0 0 10px 0 ;
+}
+h3{
+    color:#11999E;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+}
+.cloud1
+{
+    position: relative;
+    margin-left:750px;
+
+}
+.cloud2
+{
+    postion:relative;
+    margin-left: 250px ;
+}
+.para1
+{
+color:#40514E;
+width: 30%;
+margin-left: 36% ;
+font-family: cursive;
+}
+.dd
+{
+    float: left; 
+   
+}
+.hotwings{
+
+    float:right;
+}
+.btn-contactme{
+   
+    background-color: lightblue;
+    color:black;
+    border-radius: 2%;
+    width:150px;
+    border: 0;
+    height: 50px;
+    margin-bottom: 20px;
+}
+.btn-contactme:hover{
+    background-color: rgb(86, 69, 184);
+    color:white;
+    
+
+}
+.footer
+{
+    background-color: #EAF6F6;
+    width: auto;
+    height: 95px;
+    padding: 20px;
+}
+.footer a{
+    text-decoration: none;
+    color: #11999E;
+    display: inline-block;
+    font-size: 25px;
+    margin:20px;
+}
+.footer a:hover{
+    color:black;
+}
+.text
+{
+    width:39%;
+    margin: auto;
+}
+.Displayimage
+{
+ width: 10%;
+ height: 18%;
+ border-radius: 50%;
+ border: none;
+}
